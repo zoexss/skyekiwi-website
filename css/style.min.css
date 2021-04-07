@@ -190,7 +190,7 @@ a {
 }
 
 a:hover {
-	color: #c74800;
+	color: #cf596c;
 	text-decoration: underline
 }
 
@@ -2279,15 +2279,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-primary {
-	color: #6e6e6d;
-	background-color: #FAD0C9;
-	border-color: #FAD0C9
+	color: #ffff;
+	background-color: #d97989;
+	border-color: #d97989
 }
 
 .btn-primary:hover {
-	color: #FAD0C9;
-	background-color: #6e6e6d;
-	border-color: #6e6e6d
+	color: #ffff;
+	background-color: #616161;
+	border-color: #616161
 }
 
 .btn-primary.focus,
@@ -2586,13 +2586,13 @@ fieldset:disabled a.btn {
 	color: #6e6e6d;
 	background-color: transparent;
 	background-image: none;
-	border-color: #FAD0C9
+	border-color: #D97989
 }
 
 .btn-outline-primary:hover {
 	color: #fff;
-	background-color: #FAD0C9;
-	border-color: #FAD0C9
+	background-color: #D97989;
+	border-color: #D97989
 }
 
 .btn-outline-primary.focus,
@@ -21487,7 +21487,7 @@ footer .nav li {
 		z-index: 50;
 		-webkit-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .1);
 		-moz-box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .1);
-		box-shadow: 0 10px 15px 0 rgba(0, 0, 0, .1)
+		box-shadow: 0 10px 15px 0 #dc829129;
 	}
 }
 
@@ -28336,15 +28336,15 @@ header.header-nonsticky {
 }
 
 .nav-link.active {
-	color: #fad0c9!important
+	color: #D97989!important
 }
 
 .text-white .accordion-group .accordion.completed {
-	background: rgb(200, 158, 151)
+	background: #545454;
 }
 
 .text-white .accordion-group .accordion.completed:hover {
-	background:  rgb(200, 158, 151)
+	background:  #DC8291
 }
 
 .user-photo.expand {
