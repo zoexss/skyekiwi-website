@@ -20074,7 +20074,7 @@ section[class*=small] {
 }
 
 .logo-sm {
-	max-height: 2rem
+	max-height: 5rem
 }
 
 img {
@@ -28251,7 +28251,7 @@ pre[class*=language-] {
 	background-size: auto auto;
 	background-position: center bottom;
 	z-index: 45;
-	opacity: .4
+	opacity: .3
 }
 
 .section.dark {
