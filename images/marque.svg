@@ -1,13 +1,10 @@
-<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M244.844 447.123C266.003 336.531 353.38 249.388 473.902 235.993C620.074 219.746 750.209 321.663 764.566 463.63C778.923 605.597 672.066 733.855 525.893 750.101C518.6 750.912 511.347 751.428 504.145 751.66" stroke="white" stroke-width="25" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M459.876 385.48C459.829 378.7 460.946 372.096 463.073 365.92C467.753 352.333 477.32 340.819 490.13 334.066C494.353 331.84 498.928 330.131 503.797 329.036C517.591 325.933 533.863 327.317 547.247 333.04C554.551 336.163 560.994 340.578 565.705 346.26" stroke="white" stroke-width="29.17" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M485.067 422.143C531.864 450.574 618.844 447.506 650.04 492.467" stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="bevel"/>
-<path d="M460.052 386.761C461.55 401.599 471.153 412.867 485.306 422.191" stroke="white" stroke-width="29.17" stroke-linecap="round" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M485.789 491.982L486.194 824.128L485.789 799.509V491.982Z" fill="white" stroke="white" stroke-width="36.77" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M362.137 542.042C383.27 508.281 431.55 487.34 489.274 488.825" stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M428.036 666.906C380.693 652.369 349.199 616.868 352.107 574.947C352.871 563.936 355.994 553.494 361.067 543.907" stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M546.38 668.938C538.705 670.388 530.831 671.572 522.8 672.466C488.282 676.308 455.955 674.211 429.201 667.503" stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
-<path opacity="0.990385" d="M485.435 829.615C480.658 830.174 479.233 830.469 474.383 830.504C463.841 830.581 454.123 829.362 445.499 827.069C432.343 823.57 421.733 817.572 414.633 809.862" stroke="white" stroke-width="25.26" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M650.458 492.904C664.888 510.475 673.115 530.737 673.115 552.31C673.115 619.524 593.254 674.012 494.741 674.012" stroke="white" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M548.914 453.614C584.765 463.805 627.028 483.419 626.736 522.246C623.828 557.012 588.579 584.146 553.151 593.919C588.398 584.283 623.948 557.088 626.884 522.302C627.179 483.553 585.178 463.295 548.914 453.614Z" stroke="white" stroke-width="13.54" stroke-linecap="round" stroke-linejoin="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="871px" height="893px" viewBox="0 0 871 893" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>light_logo</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <text id="𝚺𝜎" font-family="STIXGeneral-Regular, STIXGeneral" font-size="500" font-weight="normal" fill="#FFFFFF">
+            <tspan x="168" y="615">𝚺𝜎</tspan>
+        </text>
+        <circle id="Oval" stroke="#FFFFFF" stroke-width="20" cx="435" cy="452" r="411"></circle>
+    </g>
 </svg>
